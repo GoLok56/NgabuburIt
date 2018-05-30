@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "nama": "Tugas Sistem Operasi",
+      "deskripsi": "Cari proses penjadwalan dijadikan makalah dan presentasi minggu depan.",
+      "status": 0
+    },
+    {
+      "nama": "Tugas Sistem Informasi",
+      "deskripsi": "Buat SKPL untuk Sistem Informasi Bandara.",
+      "status": 0
+    },
+    {
+      "nama": "Beli Sabun",
+      "deskripsi": "Ke Indomart beli sabun.",
+      "status": 1
+    },
+    {
+      "nama": "Nyuci Baju",
+      "deskripsi": "Baju 2 minggu uda ga dicuci. Cuci secepatnya.",
+      "status": 1
+    },
+    {
+      "nama": "Beli Karton",
+      "deskripsi": "Karton buat validasi ide Pilkadangu.",
+      "status": 0
+    },
+    {
+      "nama": "Tugas Metnum",
+      "deskripsi": "Nomer 1-5, bikin programnya di SciLab.",
+      "status": 0
+    }
+  ]
+}
