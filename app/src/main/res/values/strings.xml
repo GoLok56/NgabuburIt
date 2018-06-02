@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">NgabuburIt</string>
+    <string name="app_name">ToDo App</string>
+    <string name="activity_add_todo_nama_todo">Nama</string>
+    <string name="activity_add_todo_deskripsi_todo">Deskripsi</string>
 </resources>
